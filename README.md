@@ -1,3 +1,3 @@
 # FE2team-fizzbuzz
 
-fizzbuzz 구현
+fizzbuzz 구현 1
